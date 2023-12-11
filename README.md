@@ -1,2 +1,3 @@
 # PingPongGame
-A ping pong game using Java
+A ping pong game using Java- Indipendent project 
+
